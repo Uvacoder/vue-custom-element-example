@@ -4,7 +4,7 @@
 [how to export]: https://github.com/ElMassimo/vue-custom-element-example/tree/main/package
 [how to use them]: https://github.com/ElMassimo/vue-custom-element-example/tree/main/playground
 [blog]: https://maximomussini.com/posts/vue-custom-elements/
-
+-
 <h1 align='center'>
   <p align='center'>
     <img src='https://github.com/ElMassimo/vue-custom-element-example/blob/main/example.png' alt='Example' height="72"/>
